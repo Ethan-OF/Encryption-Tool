@@ -4,6 +4,7 @@ Application should run on ALL windows 10 computers, other devices have not been 
 Usage of application is pretty much self explanatory.
 
 **NEW**
+
 This is a very old project I worked on, I wanted to hide texts between me and my friend in Microsoft Teams. I don't work on this anymore, but it reached a point where I am happy with the final product.
 
 The key being visible in the code doesn't matter to me, as I never intended for it to be used by anyone other than myself. This will also be revamped later once school is finished forever. The program is slow in my standards, but it functions fast enough for what I wanted to do. Either way, I will be rewriting this in C++ later.
