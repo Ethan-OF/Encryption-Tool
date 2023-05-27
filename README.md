@@ -3,7 +3,6 @@ Application should run on ALL windows 10 computers, other devices have not been 
 
 Usage of application is pretty much self explanatory.
 
-
 **NEW**
 
 This is a very old project I worked on, I wanted to hide texts between me and my friend in Microsoft Teams. I don't work on this anymore, but it reached a point where I am happy with the final product.
